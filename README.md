@@ -90,7 +90,7 @@ To reproduce the analysis locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd Grocery-Run-
+   cd Grocery-Run-Analysis 
    ```
 
 2. **Run Python Analysis Script (Optional):**
