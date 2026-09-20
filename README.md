@@ -1,4 +1,3 @@
-# Grocery-Run-Analysis
 # Grocery-Run-Analysis 🛒📊
 
 An end-to-end data analysis project investigating household grocery consumption patterns, purchasing behaviors, and cost-optimization strategies. This repository processes a dataset tracking purchase timelines, item categories, multi-channel procurement metrics, and payment behavior to extract consumer spending insights.
